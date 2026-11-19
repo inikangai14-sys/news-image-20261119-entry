@@ -1,7 +1,8 @@
 # The World in One Day — Thursday 19 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261119-blue)](https://make.fun/bounty/news-image-20261119)
-[![repo](https://img.shields.io/badge/repo-inikangai14--sys%2Fnews--image--20261119--entry-green)](https://github.com/inikangai14-sys/news-image-20261119-entry)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/inikangai14-sys/news-image-20261119-entry/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/inikangai14-sys/news-image-20261119-entry/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 One image that sums up the world's news of **Thursday 19 November 2026**:
 **45 stories, 6 continents, one front page and a map.**
@@ -63,3 +64,7 @@ python3 compose.py   # renders entry.png from scratch (PIL, DejaVu fonts)
 
 MIT — see [LICENSE](LICENSE). All drawings are original work made for
 this entry.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=airdrop-menn&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
